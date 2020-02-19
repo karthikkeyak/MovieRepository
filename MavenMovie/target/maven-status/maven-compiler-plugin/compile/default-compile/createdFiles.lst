@@ -1,0 +1,11 @@
+com\capgemini\movie\exception\NameException.class
+com\capgemini\movie\entity\Movie.class
+com\capgemini\movie\service\MovieService.class
+com\lpu\MavenMovie\App.class
+com\capgemini\movie\dao\MovieDao.class
+com\capgemini\movie\exception\MovieException.class
+com\capgemini\movie\client\Client.class
+com\capgemini\movie\dao\MovieDaoImpl.class
+com\capgemini\movie\util\MovieRepository.class
+com\capgemini\movie\exception\IdException.class
+com\capgemini\movie\service\MovieServiceImpl.class
